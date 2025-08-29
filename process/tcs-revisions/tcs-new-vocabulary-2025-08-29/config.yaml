@@ -1,5 +1,5 @@
 date_issued: '2025-08-29'
-local_offset_from_utc: +10:00
+local_offset_from_utc: "+10:00"
 vocab_type: 1
 list_of_terms_iri: http://rs.tdwg.org/tcs/
 standard: http://www.tdwg.org/standards/177
