@@ -243,3 +243,6 @@ http://rs.tdwg.org/version/dwc/2025-07-10,http://rs.tdwg.org/dwc/version/terms/2
 http://rs.tdwg.org/version/dwc/2025-07-10,http://rs.tdwg.org/dwc/version/ac/2025-06-12
 http://rs.tdwg.org/version/eco/2025-07-10,http://rs.tdwg.org/eco/version/terms/2025-07-10
 http://rs.tdwg.org/version/eco/2025-07-10,http://rs.tdwg.org/eco/version/iri/2025-07-10
+http://rs.tdwg.org/version/tcs/2025-09-06,http://rs.tdwg.org/tcs/version/terms/2025-09-06
+http://rs.tdwg.org/version/tcs/2025-09-06,http://rs.tdwg.org/tcs/version/dwc/2025-09-06
+http://rs.tdwg.org/version/tcs/2025-09-06,http://rs.tdwg.org/tcs/version/dcterms/2025-09-06
